@@ -1,0 +1,21 @@
+{
+  "name": "media-stream-recorder",
+  "version": "1.0.0",
+  "description": "polymer element for the MediaStreamRecorder api",
+  "main": "media-stream-recorder.html",
+  "scripts": {
+    "build": "polymer build",
+    "serve": "polymer serve",
+    "test": "polymer test"
+  },
+  "keywords": [
+    "polymer",
+    "web-components",
+    "media-stream-recorder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "polymer-cli": "^1.9.11"
+  }
+}
